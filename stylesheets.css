@@ -69,7 +69,11 @@ button{
     width: 50%;
 }
 
-.operator, .percent{
+.operator{
+    color: #65b139;
+}
+
+.percent{
     color: #65b139;
 }
 
